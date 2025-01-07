@@ -1,2 +1,2 @@
 # agentic-ai-playground
-This is the AIE challenge. I am doing this again to go over the requisites of the AIE course. 
+This is where I apply what I am learning about building Agentic AI applications and testing different agentic frameworks.
